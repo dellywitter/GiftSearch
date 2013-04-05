@@ -1,0 +1,205 @@
+{"All": {
+{
+name : "Clothing", id : "83451031",
+sub : [ 
+subname : "Tops", id : "116176031", 
+subname : "Blouses", id : "116177031", 
+subname : "Shirts", id : "116178031", 
+subname : "Knitwear", id : "116179031", 
+subname : "Jeans", id : "116180031", 
+subname : "Shorts", id : "116181031", 
+subname : "Skirts", id : "116182031", 
+subname : "Dresses", id : "116183031",  
+], 
+name : "Automotive", id : "248878031",
+sub : [ 
+subname : "Accessories", id : "60036031", 
+subname : "Car Care", id : "303891031", 
+subname : "Electronics", id : "1342661031", 
+subname : "Navigation", id : "389515011", 
+subname : "Parts", id : "301309031", 
+subname : "Tyres & Rims", id : "307675031"
+], 
+name : "Baby Products", id : "60032031",
+sub : [ 
+subname : "Entertainment", id : "60046031", 
+subname : "Carriers", id : "60538031", 
+subname : "Clothes", id : "60037031", 
+subname : "Car Seats", id : "60036031", 
+subname : "Christening", id : "63026031", 
+subname : "Health&Care", id : "60042031", 
+subname : "Maternity", id : "60545031",  
+subname : "Nursery", id : "1902084031", 
+subname : "Prams", id : "60043031"
+], 
+name : "Beauty", id : "117333031",
+sub : [ 
+subname : "Make-up", id : "118423031", 
+subname : "Fragrances", id : "118457031", 
+subname : "Skincare", id : "118464031", 
+subname : "Bath & Shower", id : "74129031", 
+subname : "Hair Care", id : "345168031", 
+subname : "Bags & Cases", id : "118491031", 
+subname : "Toiletry Bags", id : "1722529031"
+], 
+name : "Books", id : "1025612",
+sub : [ 
+subname : "Collectable", id : "349777011", 
+subname : "Art", id : "91", 
+subname : "Biography", id : "67", 
+subname : "Children's", id : "69", 
+subname : "Graphic Novels", id : "274081", 
+subname : "Crime & Mystery", id : "72", 
+subname : "e-Books", id : "637262", 
+subname : "Fantasy", id : "279254", 
+subname : "Fiction", id : "62", 
+subname : "Horror", id : "63", 
+subname : "Humour", id : "89", 
+subname : "Science Fiction", id : "279292", 
+subname : "Scientific", id : "564334"
+], 
+name : "Film & TV", id : "573406",
+sub : [ 
+subname : "Action", id : "501778", 
+subname : "Anime", id : "3336941", 
+subname : "Children's", id : "501858", 
+subname : "Classics", id : "501976", 
+subname : "Comedy", id : "501866", 
+subname : "Crime & Mystery", id : "501880", 
+subname : "Documentary", id : "501958", 
+subname : "Drama", id : "501872", 
+subname : "Horror", id : "162441011", 
+subname : "Music", id : "501888", 
+subname : "Science Fiction & Fantasy", id : "501912", 
+subname : "Sports", id : "295573011"
+], 
+name : "Electronics & Photo", id : "560800",
+sub : [ 
+subname : "Cameras", id : "560834", 
+subname : "Computers", id : "949408031", 
+subname : "e-Readers", id : "1345925031", 
+subname : "Home Audio", id : "4085821", 
+subname : "TV & Video", id : "560858", 
+subname : "Mobile Phones", id : "1340509031", 
+subname : "Radio", id : "1348422031", 
+subname : "Telephones", id : "1340513031"
+], 
+name : "Grocery", id : "344155031",
+sub : [ 
+subname : "Baby Food", id : "358581031", 
+subname : "Wine & Spirits", id : "358583031", 
+subname : "Beverages", id : "358584031", 
+subname : "Baking Supplies", id : "358587031", 
+subname : "Biscuits & Snacks", id : "358604031", 
+subname : "Fish & Shellfish", id : "358603031", 
+subname : "Fruits", id : "358589031"
+], 
+name : "Health & Beauty", id : "66280031",
+sub : [ 
+subname : "Baby Care", id : "60042031", 
+subname : "Beauty", id : "66471031", 
+subname : "Diet & Nutrition", id : "67621031", 
+subname : "Health Care", id : "66467031", 
+subname : "Personal Care", id : "66468031"
+], 
+name : "Jewellery", id : "193717031",
+sub : [ 
+subname : "Accessories", id : "197336031", 
+subname : "Beads", id : "213868031", 
+subname : "Body Jewellery", id : "197341031", 
+subname : "Bracelets & Bangles", id : "197404031", 
+subname : "Charms", id : "197346031", 
+subname : "Clip-on Earrings", id : "197370031", 
+subname : "Earrings", id : "197366031", 
+subname : "Fashion Jewellery", id : "197373031", 
+subname : "Jewellery Sets", id : "357692031", 
+subname : "Neckwear", id : "197378031", 
+subname : "Pendants", id : "197385031", 
+subname : "Rings", id : "197392031"
+], 
+name : "Kindle Store", id : "341678031",
+sub : [ 
+subname : "Kindle Devices", id : "341686031", 
+subname : "Kindle Accessories", id : "341687031", 
+subname : "Kindle Blogs", id : "341688031", 
+subname : "Kindle eBooks", id : "341689031", 
+subname : "Kindle Magazines & Journals", id : "341690031", 
+subname : "Kindle Newspapers", id : "341691031"
+], 
+name : "MP3 Downloads", id : "77198031",
+sub : [ 
+subname : "Albums", id : "118609031", 
+subname : "Songs", id : "118610031"
+], 
+name : "Music", id : "520920",
+sub : [ 
+subname : "Pop", id : "694208", 
+subname : "Rock", id : "231239", 
+subname : "Classical", id : "697386", 
+subname : "Alternative", id : "231193", 
+subname : "Rap & Hip-Hop", id : "754574", 
+subname : "Hard Rock", id : "690892", 
+subname : "Country", id : "231177", 
+subname : "Jazz", id : "231201", 
+subname : "Blues", id : "557264"
+],
+name : "PC & Video Games", id : "1025616",
+sub : [ 
+subname : "Consoles", id : "676171011", 
+subname : "Accessories", id : "676172011", 
+subname : "Games", id : "676193011"
+], 
+name : "Software", id : "1025614",
+sub : [ 
+subname : "Business & Office", id : "600014", 
+subname : "Photo & Design", id : "600136", 
+subname : "Education", id : "300436", 
+subname : "Home & Hobbies", id : "300479", 
+subname : "Home Computing", id : "599892", 
+subname : "Languages", id : "300449"
+], 
+name : "Sports & Outdoors", id : "319530011",
+sub : [ 
+subname : "Baseball", id : "324109011", 
+subname : "Basketball", id : "324105011", 
+subname : "Bowling", id : "671619011", 
+subname : "Climbing", id : "453556031", 
+subname : "Cycling", id : "324144011", 
+subname : "Fencing", id : "454663031", 
+subname : "Fishing", id : "324129011", 
+subname : "Football", id : "324078011", 
+subname : "Golf", id : "324115011", 
+subname : "Ice Hockey", id : "324244011"
+], 
+name : "Toys", id : "595314",
+sub : [ 
+subname : "Dressing Up", id : "364108031", 
+subname : "Education & Science", id : "364115031", 
+subname : "Electronic Toys", id : "364130031", 
+subname : "Figures & Playsets", id : "364301031", 
+subname : "Games", id : "364143031", 
+subname : "Jigsaws & Puzzles", id : "364248031", 
+subname : "Kids' Furniture", id : "364141031", 
+subname : "Party Supplies", id : "364234031", 
+subname : "Pretend Play", id : "364316031"
+], 
+name : "Video", id : "573400",
+sub : [ 
+subname : "Action", id : "283921", 
+subname : "Children's Videos", id : "283928", 
+subname : "Comedy", id : "283924", 
+subname : "Drama", id : "283925", 
+subname : "Fitness Corner", id : "283995", 
+subname : "Horror", id : "283927", 
+subname : "Science Fiction", id : "283930", 
+subname : "Sports", id : "283932", 
+subname : "World Cinema", id : "283922"
+], 
+name : "Watches", id : "328229011",
+sub : [ 
+subname : "Wristwatches", id : "199482031", 
+subname : "Luxury Watches", id : "199483031", 
+subname : "Pocket", id : "199484031", 
+subname : "Accessories", id : "199485031"
+], 
+}
